@@ -26,5 +26,5 @@ The objective is to uncover insights related to customer behavior, sales perform
 - **50% of all customers are based in Dhaka**, highlighting a strong regional user concentration.  
 - **81% of books sold were pre-owned**, showing a high demand for affordable, second-hand options.
 
-![image alt](https://github.com/Irakib98/Pathok-Point-2025/blob/b49506143aaf3fda0938420a0f3e3fcbf7e0456f/Screenshot%202025-10-05%20224633.png)
+![image alt]([https://github.com/Irakib98/Pathok-Point-2025/blob/b49506143aaf3fda0938420a0f3e3fcbf7e0456f/Screenshot%202025-10-05%20224633.png](https://github.com/Irakib98/Pathok-Point-2025/blob/d06038135d9c0661947f83ba886aa70618ae3e15/Screenshot%202025-10-05%20230146.png))
 
